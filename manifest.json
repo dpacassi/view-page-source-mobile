@@ -1,0 +1,32 @@
+{
+  "author": "David Pacassi Torrico",
+  "manifest_version": 2,
+  "name": "View Page Source",
+  "version": "1.0.0",
+  "description": "Adds the ability to open the page source in a new tab via button (Desktop) or menu (Firefox for Android).",
+  "homepage_url": "https://github.com/dpacassi/view-page-source",
+  "icons": {
+    "40": "icons/40/app.png",
+    "48": "icons/48/app.png",
+    "128": "icons/128/app.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "40": "icons/40/app.png",
+      "48": "icons/48/app.png",
+      "128": "icons/128/app.png"
+    },
+    "default_title": "View Page Source"
+  },
+  "background": {
+    "scripts": [
+      "app.js"
+    ],
+    "persistent": true
+  },
+  "permissions": [
+    "<all_urls>",
+    "activeTab",
+    "tabs"
+  ]
+}
