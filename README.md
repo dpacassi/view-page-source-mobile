@@ -3,8 +3,8 @@ This small web extension adds a `View Page Source` menu item to Firefox for Andr
 While the usage on desktop browsers might be questionable, it is really handy on mobile devices.
 
 ## Supported browsers
-- [Mozilla Firefox]() (Desktop & Firefox for Android)
-- [Google Chrome]() (Desktop)
+- [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/view-page-source-mobile/) (Desktop & Firefox for Android)
+- [Google Chrome](https://chrome.google.com/webstore/detail/view-page-source-mobile/fbdpdlmooncdmobmdkglkljhfgnjlpfi) (Desktop)
 
 ## Usage
 Simply click the icon or menu item to view the page source.
