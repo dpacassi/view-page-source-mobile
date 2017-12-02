@@ -1,5 +1,7 @@
 'use strict';
 
+var browser = browser;
+
 (function(browser) {
   // Local variables.
   var browser = browser;

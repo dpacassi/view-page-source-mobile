@@ -2,7 +2,7 @@
   "author": "David Pacassi Torrico",
   "manifest_version": 2,
   "name": "View Page Source (Mobile)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds the ability to open the page source in a new tab via button (Desktop) or menu (Firefox for Android).",
   "homepage_url": "https://github.com/dpacassi/view-page-source-mobile",
   "icons": {
